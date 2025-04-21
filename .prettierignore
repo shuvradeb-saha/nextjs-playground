@@ -1,0 +1,4 @@
+# Generated files
+src/openapi/searchComponents.ts
+src/openapi/searchFunctions.ts
+src/openapi/searchSchemas.ts
